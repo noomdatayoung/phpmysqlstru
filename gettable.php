@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 echo "BAC";
 
 
-   exdb("localhost","dbaze_wp4","Y*7)J7QqguKh2OO3fu)56&^3","dbaze_wp4" ); 
+   exdb("localhost","dbase","Y*7)J7QqguKh2OO3fu)56&^3","dbase" ); 
 
 
 // by https://github.com/ttodua/useful-php-scripts //
